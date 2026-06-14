@@ -10,3 +10,8 @@ url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2B
 [update.modrinth]
 mod-id = "ZouiUX7t"
 version = "kti7i9SG"
+
+[option]
+optional = true
+description = "Звуки для каждого действия."
+default = true

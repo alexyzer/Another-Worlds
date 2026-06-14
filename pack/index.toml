@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "a03e101b4bb909d7f629a121f638b763fc4e3c6a8bd28df86424652f3be72369"
+hash = "5fd63d6e6202fb1d4832444735f38815ddb8c8fa3ef822601ccd430992168602"
 metafile = true
 
 [[files]]
