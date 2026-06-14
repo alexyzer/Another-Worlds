@@ -1,13 +1,12 @@
-name = "Placebo"
 filename = "Placebo-1.21.1-9.9.1.jar"
+name = "Placebo"
 side = "both"
 
 [download]
 hash-format = "sha1"
 hash = "1c2b8c38066d6f36209c5dadee25c184ef65202e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/tCkE8p2N/versions/kb8pGRQR/Placebo-1.21.1-9.9.1.jar"
 
-[update]
-[update.curseforge]
-file-id = 6926281
-project-id = 283644
+[update.modrinth]
+mod-id = "tCkE8p2N"
+version = "kb8pGRQR"

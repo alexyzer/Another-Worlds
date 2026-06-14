@@ -19,8 +19,16 @@ hash = "f5e819c03a0da32b2aa134a6612ebd4b9737b6037debc1591b5770f96c3c4258"
 metafile = true
 
 [[files]]
-file = "mods/Lift-n-Load-1.21.1-1.0a.jar"
-hash = "06f08134438a007b4d7057dfbd156d48ef81e6b3c6478f3aaee36bcc090fa521"
+file = "mods/ApothicAttributes-1.21.1-2.9.1.jar"
+hash = "6e3dd73d01c1784f4d1293126e3020470887456cd0d246a4c44a0fc1a244e381"
+
+[[files]]
+file = "mods/ApothicEnchanting-1.21.1-1.5.3.jar"
+hash = "4aa30b8669f2ddeac6ca37de059225060849c7fe1dc75c92ecff7f6ab385687a"
+
+[[files]]
+file = "mods/ApothicSpawners-1.21.1-1.3.4.jar"
+hash = "df6e176d9b00593ae6e712f8440ee75ffe8b1fc5af39f77970e8a0255a193e15"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -78,21 +86,6 @@ hash = "263433edb3a1820a6af182db42e1c89761957b3a04f9ac4b0eefa36d93b2c290"
 metafile = true
 
 [[files]]
-file = "mods/apothic-attributes.pw.toml"
-hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
-metafile = true
-
-[[files]]
-file = "mods/apothic-enchanting.pw.toml"
-hash = "803464cf825c0bdb8043e8cbb8667dcbed01a50fd70b0525215dcd177683a8dc"
-metafile = true
-
-[[files]]
-file = "mods/apothic-spawners.pw.toml"
-hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "41495d528cccc98a2040476192aa9b5da32b7edc03eceddfa2ab93de711e3ad7"
 metafile = true
@@ -133,9 +126,8 @@ hash = "f65dd6de9d56b1c56d4a73675477a7d9f98995431ac1f87b7f24c03be92cd645"
 metafile = true
 
 [[files]]
-file = "mods/better-spellcasting.pw.toml"
-hash = "5cd7bf4a80975a3638c4c14e671dc1fd4f6a29ccf7a55787375bff44020c0f21"
-metafile = true
+file = "mods/better_spellcasting-1.21.1-1.2.0.jar"
+hash = "6cc31d55b1ff0425dd44bb3d763a0334cb3d314fc6bc4d35c432e6e2d510cfd3"
 
 [[files]]
 file = "mods/big-tires.pw.toml"
@@ -363,14 +355,13 @@ hash = "467505a2a1eadd00f8c2c790390b093a3e5531d6f2fc3969ef5f7d24e4919c86"
 metafile = true
 
 [[files]]
-file = "mods/create-tracks.pw.toml"
-hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "c5108ba66786d439ff551145dc0bfc249e747ede3e6be1d74339b009ce648122"
 metafile = true
+
+[[files]]
+file = "mods/create_lnl_47xf2rt.jar"
+hash = "06f08134438a007b4d7057dfbd156d48ef81e6b3c6478f3aaee36bcc090fa521"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -488,9 +479,8 @@ hash = "e318a39bc501d3bbfe1a95d4028973f577b68a164006ceaa364e93fef177687a"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
-metafile = true
+file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
+hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 
 [[files]]
 file = "mods/fwa.pw.toml"
@@ -537,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "7732ca3e24b10cbb47ec3993bbfa9b160d43ad2affddb3c89d70fb35e29665ca"
+metafile = true
+
+[[files]]
+file = "mods/incremental-mining.pw.toml"
+hash = "58a0e57b38d46ab21aae183184f1d4587371c37c6540364febcf979c74b9649b"
 metafile = true
 
 [[files]]
@@ -784,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+hash = "628fcf94220672e5e4540c9806f4a288f938434ab0ee998f1896983275116a55"
 metafile = true
 
 [[files]]
@@ -834,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-evolution.pw.toml"
-hash = "39adb7898342be5de6ce97372c98856cc5ef7c725a514f9f6ac5b72a8985ee05"
+hash = "b19bfe73e7818c91732c27e5b7b35318aef37951a8c26e9a69abc615e1e15adc"
 metafile = true
 
 [[files]]
@@ -848,9 +843,8 @@ hash = "ce503365a81ff5980c6c18c1b3c59b0a464ec803a48f6a7945a5ac85d5b73801"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
-metafile = true
+file = "mods/refurbished_furniture_5wmsbtq.jar"
+hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
@@ -1014,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "5fd63d6e6202fb1d4832444735f38815ddb8c8fa3ef822601ccd430992168602"
+hash = "a03e101b4bb909d7f629a121f638b763fc4e3c6a8bd28df86424652f3be72369"
 metafile = true
 
 [[files]]
@@ -1033,14 +1027,13 @@ hash = "1f282d93385bf479e3e836f1ba4b6208dafe90bc6a72c003b844ee189cd01b73"
 metafile = true
 
 [[files]]
-file = "mods/tempad-homes.pw.toml"
-hash = "0b8f91173e19aeb13d09c49f59a8c251f0f80b32de5c5c5b2d6b37887acfb5ec"
-metafile = true
-
-[[files]]
 file = "mods/tempad.pw.toml"
 hash = "e76f8f9e5a3a6601cff734857b30547f43e1ac0c16fe9ed97cf82ff70ee85a5b"
 metafile = true
+
+[[files]]
+file = "mods/tempadhomes-1.0.0.jar"
+hash = "e904fc71aaa692f659ed845b59398f11fdcfa77fef5c8fc99659ea326dfefe3b"
 
 [[files]]
 file = "mods/the-beyond.pw.toml"
@@ -1066,6 +1059,10 @@ metafile = true
 file = "mods/toxony.pw.toml"
 hash = "709294708bccf91a102d8b864fd84790fa5d55911606bdabf910f8a008e432b0"
 metafile = true
+
+[[files]]
+file = "mods/tracks-neoforge-1_21_1-1_0_1.jar"
+hash = "5ddcc53a4f011b55518637f7c31a7c083af4eda0e0f062eb3d462c61ecd06366"
 
 [[files]]
 file = "mods/travelers-compass.pw.toml"
