@@ -1,6 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/analogaudio/analogaudio.client.toml"
+hash = "875799103093d0085d03a2c173000b4dae9255c75f92e86ec7bc5565e10cae53"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "2053af9f78993bd12ccc0663de0abea63a0792386dcc18761dca7c6ce38b6a7c"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "bde8aa2b904df9be59cafb72453df8eaa34eac231b0a6b543260219dc8c07f90"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f5e819c03a0da32b2aa134a6612ebd4b9737b6037debc1591b5770f96c3c4258"
 metafile = true
@@ -1113,11 +1126,13 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "94e55a3ed674121221534aacad002c87ceaf99a9f395b8e1c42d6bf8042c896d"
 metafile = true
+preserve = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "005365a30f91e05a4c72cdec7ab9296f1f6b427bd4b24bc9c73c3a235eeea755"
 metafile = true
+preserve = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
