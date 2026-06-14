@@ -11,7 +11,7 @@ if [ -z "$JAVA" ]; then
 fi
 [ -z "$JAVA" ] && command -v java >/dev/null && JAVA="$(command -v java)"
 if [ -n "$JAVA" ]; then
-    exec "$JAVA" -jar packwiz-installer-bootstrap.jar ../pack.toml -bootstrap-no-update
+    exec "$JAVA" -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/alexyzer/Another-Worlds/refs/heads/main/pack/pack.toml" -bootstrap-no-update
 fi
 echo "Java not found" >&2
 xdg-open "https://www.java.com/download/" 2>/dev/null
