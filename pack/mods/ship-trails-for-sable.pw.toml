@@ -1,0 +1,12 @@
+filename = "WakesSableCompat v1.0.0-1.21.1.jar"
+name = "Ship Trails for Sable"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "536e522f63b643b0348aef9358113893e69fb2c2"
+url = "https://cdn.modrinth.com/data/C1XV6pSV/versions/BhXVJLQ5/WakesSableCompat%20v1.0.0-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "C1XV6pSV"
+version = "BhXVJLQ5"

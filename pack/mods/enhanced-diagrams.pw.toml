@@ -1,0 +1,12 @@
+filename = "enhanced_diagrams-1.0.0.jar"
+name = "Simulated: Enhanced Diagrams"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "696d381ebd58b3ca30b4168713687665e0a3e094"
+url = "https://cdn.modrinth.com/data/74NMPL0B/versions/P8xHwFhj/enhanced_diagrams-1.0.0.jar"
+
+[update.modrinth]
+mod-id = "74NMPL0B"
+version = "P8xHwFhj"

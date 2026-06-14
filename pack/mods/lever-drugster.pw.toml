@@ -1,0 +1,12 @@
+filename = "analogleverdrag-neoforge-1.21.1-1.5.0.jar"
+name = "Lever drugster"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a06ec9e7266d88dc95ba26bf2a673e773ffa0a1e"
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/RRukPoez/analogleverdrag-neoforge-1.21.1-1.5.0.jar"
+
+[update.modrinth]
+mod-id = "GQNtImhh"
+version = "RRukPoez"

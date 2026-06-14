@@ -1,0 +1,12 @@
+filename = "afk-cinematics-1.21.1.jar"
+name = "AFK Cinematics"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c845821f6201b3af4eaaf52e37f4e381be1e8eee"
+url = "https://cdn.modrinth.com/data/MjVuY1gY/versions/UxoI2zMA/afk-cinematics-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "MjVuY1gY"
+version = "UxoI2zMA"

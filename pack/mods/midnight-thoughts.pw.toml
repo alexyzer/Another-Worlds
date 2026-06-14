@@ -1,0 +1,12 @@
+filename = "midnightthoughts-1.4.jar"
+name = "Midnight Thoughts"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "699878a67403afe12dbd632870d64f09d450b174"
+url = "https://cdn.modrinth.com/data/rZVE31wM/versions/VEvCrUum/midnightthoughts-1.4.jar"
+
+[update.modrinth]
+mod-id = "rZVE31wM"
+version = "VEvCrUum"

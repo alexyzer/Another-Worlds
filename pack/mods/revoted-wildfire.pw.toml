@@ -1,0 +1,12 @@
+filename = "revotedwildfire-1.21.1-1.0.2.jar"
+name = "Revoted: Wildfire"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a326e8625eb9d331b2d3cfb06019ecd35e36a92"
+url = "https://cdn.modrinth.com/data/840SMhYK/versions/8jgu87vF/revotedwildfire-1.21.1-1.0.2.jar"
+
+[update.modrinth]
+mod-id = "840SMhYK"
+version = "8jgu87vF"

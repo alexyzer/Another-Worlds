@@ -1,0 +1,12 @@
+filename = "createbigcannons-5.11.5+mc.1.21.1.jar"
+name = "Create Big Cannons"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2b81eab4edfaa4aefa774e7a804a05a240d697d"
+url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/GtEAfuhu/createbigcannons-5.11.5%2Bmc.1.21.1.jar"
+
+[update.modrinth]
+mod-id = "GWp4jCJj"
+version = "GtEAfuhu"

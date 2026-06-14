@@ -1,0 +1,12 @@
+filename = "alshanex_familiars-1.21.1_v4.0.1.jar"
+name = "Alshanex's Familiars"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6416abe3edb6cbd6fdddb0cfcab14b6b9c70ee22"
+url = "https://cdn.modrinth.com/data/GmF3uubs/versions/2TlTV9lw/alshanex_familiars-1.21.1_v4.0.1.jar"
+
+[update.modrinth]
+mod-id = "GmF3uubs"
+version = "2TlTV9lw"

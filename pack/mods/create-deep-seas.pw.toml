@@ -1,0 +1,12 @@
+filename = "create_submarine-2.1.6.jar"
+name = "Create Deep Seas"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "095675a313be8bd9bb0ba8258da0e69f0d7c0f2b"
+url = "https://cdn.modrinth.com/data/mva5q4qZ/versions/oQnHpdLL/create_submarine-2.1.6.jar"
+
+[update.modrinth]
+mod-id = "mva5q4qZ"
+version = "oQnHpdLL"

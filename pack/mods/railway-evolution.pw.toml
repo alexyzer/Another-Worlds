@@ -1,0 +1,12 @@
+filename = "create_railway_evolution-1.0.5.jar"
+name = "Railway Evolution"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d2fb17b85a619e1422645168f9461c2880fddf0"
+url = "https://cdn.modrinth.com/data/VcPwJKGX/versions/kVo5DJ9v/create_railway_evolution-1.0.5.jar"
+
+[update.modrinth]
+mod-id = "VcPwJKGX"
+version = "kVo5DJ9v"

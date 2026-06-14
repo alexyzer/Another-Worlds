@@ -1,0 +1,12 @@
+filename = "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar"
+name = "Hopo Better Ruined Portals"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52875dc5fd560c99721565bfced9c47dbff9acfa"
+url = "https://cdn.modrinth.com/data/hIpLSyga/versions/JosVVZQn/HopoBetterRuinedPortals-%5B1.21.1-1.21.3%5D-1.4.4b.jar"
+
+[update.modrinth]
+mod-id = "hIpLSyga"
+version = "JosVVZQn"

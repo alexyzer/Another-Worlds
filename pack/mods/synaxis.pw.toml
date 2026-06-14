@@ -1,0 +1,12 @@
+filename = "synaxis-1.2.1.jar"
+name = "Synaxis"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be7b1fce1df8a317ed8eebbb4dd547e38f54eb26"
+url = "https://cdn.modrinth.com/data/aJewFWOb/versions/KnVJhNRQ/synaxis-1.2.1.jar"
+
+[update.modrinth]
+mod-id = "aJewFWOb"
+version = "KnVJhNRQ"

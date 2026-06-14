@@ -1,0 +1,12 @@
+filename = "br6xmvt.jar"
+name = "[Let's Do Addon] Compat"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "5bc9d88a18793a808ecce9bab0218995c1b9f5c3"
+url = "https://cdn.modrinth.com/data/FNi5IMiX/versions/vJUgfTU0/letsdocompat-neoforge-2.3.1.jar"
+
+[update.modrinth]
+mod-id = "FNi5IMiX"
+version = "vJUgfTU0"

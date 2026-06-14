@@ -1,0 +1,12 @@
+filename = "fwa+1.21.1-neoforge-1.2.24.jar"
+name = "Fancy World Animations"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0078261290a436d4c169978956194feb6e5ebf43"
+url = "https://cdn.modrinth.com/data/IAzUFvS6/versions/jg7RGf8X/fwa%2B1.21.1-neoforge-1.2.24.jar"
+
+[update.modrinth]
+mod-id = "IAzUFvS6"
+version = "jg7RGf8X"

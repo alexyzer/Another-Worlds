@@ -1,0 +1,12 @@
+filename = "createpropulsion-1.1.4.jar"
+name = "Create Propulsion: Simulated"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab3a032dc6d3ccddeb9b5423ae01c3e34b2ee26e"
+url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/hTnJ29I0/createpropulsion-1.1.4.jar"
+
+[update.modrinth]
+mod-id = "ApkoHNO9"
+version = "hTnJ29I0"

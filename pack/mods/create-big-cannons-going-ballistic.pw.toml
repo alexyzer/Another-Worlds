@@ -1,0 +1,12 @@
+filename = "cbc_going_ballistic-0.2.1.jar"
+name = "Create Big Cannons: Going Ballistic"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d292959b40d639ef64947c1d40d2b9a363346ff"
+url = "https://cdn.modrinth.com/data/xxaCKdq3/versions/ZXXjIf3z/cbc_going_ballistic-0.2.1.jar"
+
+[update.modrinth]
+mod-id = "xxaCKdq3"
+version = "ZXXjIf3z"

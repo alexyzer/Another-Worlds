@@ -1,0 +1,12 @@
+filename = "sable-neoforge-1.21.1-1.2.2.jar"
+name = "Sable"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5ecd3fcf60a31d84112c708abe29e341b2d1b73"
+url = "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
+
+[update.modrinth]
+mod-id = "T9PomCSv"
+version = "3FMsUjO4"

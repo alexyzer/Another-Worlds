@@ -1,0 +1,12 @@
+filename = "letsdo-farm_and_charm-neoforge-1.1.22.jar"
+name = "[Let's Do] Farm & Charm"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f51276dc4faf318486fa6e4bca27c7f8508c8e9"
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/ptvlHtBI/letsdo-farm_and_charm-neoforge-1.1.22.jar"
+
+[update.modrinth]
+mod-id = "HJetCzWo"
+version = "ptvlHtBI"

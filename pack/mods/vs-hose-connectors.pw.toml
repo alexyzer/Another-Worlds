@@ -1,0 +1,12 @@
+filename = "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar"
+name = "VS / Sable Hose Connectors"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1560a35013b042d9eaebd437a424b39e0aedc83"
+url = "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "YaZEkFmd"
+version = "AJSmuGAV"

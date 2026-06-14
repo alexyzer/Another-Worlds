@@ -1,0 +1,12 @@
+filename = "VanillaBackport-neoforge-1.21.1-1.1.7.6.jar"
+name = "Vanilla Backport"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "775f5d49c7e3bad27f381b70f9894f0e0b112330"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/HlDC50NG/VanillaBackport-neoforge-1.21.1-1.1.7.6.jar"
+
+[update.modrinth]
+mod-id = "6xwxDTgf"
+version = "HlDC50NG"

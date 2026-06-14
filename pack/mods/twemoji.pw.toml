@@ -1,0 +1,12 @@
+filename = "twemoji-1.21.1-NeoForge-1.0.2.jar"
+name = "Twemoji"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "033f17f2db164a32dd3aa5b5a1453120798b5de8"
+url = "https://cdn.modrinth.com/data/aCiQlU58/versions/f0MMI2LY/twemoji-1.21.1-NeoForge-1.0.2.jar"
+
+[update.modrinth]
+mod-id = "aCiQlU58"
+version = "f0MMI2LY"

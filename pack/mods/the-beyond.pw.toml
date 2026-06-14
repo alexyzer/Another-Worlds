@@ -1,0 +1,12 @@
+filename = "p9b02r7.jar"
+name = "The Beyond"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7e3da42409de66cfa02999c3bc9b84c320071aa"
+url = "https://cdn.modrinth.com/data/QFR0NFEH/versions/mCOIl8bE/the_beyond-0.0.4-InDev.jar"
+
+[update.modrinth]
+mod-id = "QFR0NFEH"
+version = "mCOIl8bE"

@@ -1,0 +1,12 @@
+filename = "pop_up_emotes_online-0.1.0.jar"
+name = "Pop-up Emotes Online Addon"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9e7491fa6d3dff5e1e6d415a0a6e556cb66b592a"
+url = "https://cdn.modrinth.com/data/QJtfQ4CV/versions/T9rCgg76/pop_up_emotes_online-0.1.0.jar"
+
+[update.modrinth]
+mod-id = "QJtfQ4CV"
+version = "T9rCgg76"

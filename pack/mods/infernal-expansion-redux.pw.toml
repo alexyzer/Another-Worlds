@@ -1,0 +1,12 @@
+filename = "infernalexp-neoforge-1.21.1-0.3.9.jar"
+name = "Infernal Expansion Redux"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf05207a64100a1d2b58ea02da029378d0647dba"
+url = "https://cdn.modrinth.com/data/wiPmcmNp/versions/DxPITSJL/infernalexp-neoforge-1.21.1-0.3.9.jar"
+
+[update.modrinth]
+mod-id = "wiPmcmNp"
+version = "DxPITSJL"

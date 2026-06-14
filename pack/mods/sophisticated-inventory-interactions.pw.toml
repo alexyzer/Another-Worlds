@@ -1,0 +1,12 @@
+filename = "sophisticatedinventoryinteractions-1.21.1-0.1.9.122.jar"
+name = "Sophisticated Inventory Interactions"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fffd0faebe2cdeb83df6eeef6301bb87749424a"
+url = "https://cdn.modrinth.com/data/orgY0JIo/versions/DiIZHBKo/sophisticatedinventoryinteractions-1.21.1-0.1.9.122.jar"
+
+[update.modrinth]
+mod-id = "orgY0JIo"
+version = "DiIZHBKo"

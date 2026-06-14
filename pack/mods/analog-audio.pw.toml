@@ -1,0 +1,12 @@
+filename = "Analog-Audio-0.1.0.jar"
+name = "Analog Audio"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be36cce01ec27fd6514e27010c22730399281cec"
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/UlajPCS1/Analog-Audio-0.1.0.jar"
+
+[update.modrinth]
+mod-id = "iMAVG2nH"
+version = "UlajPCS1"

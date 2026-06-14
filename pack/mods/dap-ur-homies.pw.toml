@@ -1,0 +1,12 @@
+filename = "DAP ur HOMIE (Bully ur Homie).jar"
+name = "DAP ur Homies!"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7671fbb42c7a4b098cf98501480b0b06937c12f3"
+url = "https://cdn.modrinth.com/data/V3QHTHDA/versions/W02uSI93/DAP%20ur%20HOMIE%20%28Bully%20ur%20Homie%29.jar"
+
+[update.modrinth]
+mod-id = "V3QHTHDA"
+version = "W02uSI93"

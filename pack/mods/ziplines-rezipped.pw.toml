@@ -1,0 +1,12 @@
+filename = "zipline-neoforge-1.21.1-1.2.1.jar"
+name = "Ziplines: Rezipped!"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "409e346986929da172975194d00a83877670ec3d"
+url = "https://cdn.modrinth.com/data/C1MoWQlb/versions/Vuq0V0Pe/zipline-neoforge-1.21.1-1.2.1.jar"
+
+[update.modrinth]
+mod-id = "C1MoWQlb"
+version = "Vuq0V0Pe"

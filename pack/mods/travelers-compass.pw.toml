@@ -1,0 +1,12 @@
+filename = "travelerscompass-neoforge-1.21.1-4.0.05.jar"
+name = "Traveler's Compass"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "590c418d1857312c27019884a9784ea84b34ed63"
+url = "https://cdn.modrinth.com/data/WJLLirmC/versions/2spPW8dG/travelerscompass-neoforge-1.21.1-4.0.05.jar"
+
+[update.modrinth]
+mod-id = "WJLLirmC"
+version = "2spPW8dG"

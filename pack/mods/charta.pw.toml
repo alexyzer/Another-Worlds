@@ -1,0 +1,12 @@
+filename = "charta-neoforge-1.21.1-1.2.5.jar"
+name = "Charta"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a86e06ff70316499d9d7ea6239b5ae645a733e9"
+url = "https://cdn.modrinth.com/data/sFamPxlk/versions/cuOxTn8V/charta-neoforge-1.21.1-1.2.5.jar"
+
+[update.modrinth]
+mod-id = "sFamPxlk"
+version = "cuOxTn8V"

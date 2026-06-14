@@ -1,0 +1,12 @@
+filename = "clifftree-2.0.1.jar"
+name = "CliffTree"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "119eefe665fd87bf34ff39566eea9b4fd3ec4786"
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/tKrr4oPS/clifftree-2.0.1.jar"
+
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "tKrr4oPS"

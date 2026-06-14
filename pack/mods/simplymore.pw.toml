@@ -1,0 +1,12 @@
+filename = "simplymore-neoforge-1.2.2+1.21.1.jar"
+name = "Simply More"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b78306262809bbadbeeee92c314447f118ac5a1f"
+url = "https://cdn.modrinth.com/data/zhpyD8Y0/versions/naW264bf/simplymore-neoforge-1.2.2%2B1.21.1.jar"
+
+[update.modrinth]
+mod-id = "zhpyD8Y0"
+version = "naW264bf"

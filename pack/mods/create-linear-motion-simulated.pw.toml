@@ -1,0 +1,12 @@
+filename = "create_linear_motion_simulated-0.2.1.jar"
+name = "Create : Linear Motion Simulated"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88a44632573b61a546e61823c589e370da17af0b"
+url = "https://cdn.modrinth.com/data/RsyMniH0/versions/GL4JPwH8/create_linear_motion_simulated-0.2.1.jar"
+
+[update.modrinth]
+mod-id = "RsyMniH0"
+version = "GL4JPwH8"

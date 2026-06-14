@@ -1,0 +1,12 @@
+filename = "deathlogplus-neoforge-1.21.1-1.0.2-1.21.1.jar"
+name = "DeathLogPlus"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "403c9e42557fab8ecf1affa59b82d4e5724ffde0"
+url = "https://cdn.modrinth.com/data/kmz8J4sz/versions/x2ONKCcY/deathlogplus-neoforge-1.21.1-1.0.2-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "kmz8J4sz"
+version = "x2ONKCcY"

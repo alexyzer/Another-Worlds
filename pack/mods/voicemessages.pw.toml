@@ -1,0 +1,12 @@
+filename = "voicemessages-neoforge-1.0.12-1.21.1.jar"
+name = "Voice Messages"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3411d816bd7b950a4960a7e27c413df5b8dd37bf"
+url = "https://cdn.modrinth.com/data/WWLeFuHa/versions/ezd5tjP2/voicemessages-neoforge-1.0.12-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "WWLeFuHa"
+version = "ezd5tjP2"

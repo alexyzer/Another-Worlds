@@ -1,0 +1,12 @@
+filename = "create_sa_tankfix-1.0.0.jar"
+name = "Create Stuff N' Additions Curios Compat"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fd9d2978d0c949cd85504959f1b6c55c14ddd1d"
+url = "https://cdn.modrinth.com/data/1eKmkIZD/versions/bqTjZjLS/create_sa_tankfix-1.0.0.jar"
+
+[update.modrinth]
+mod-id = "1eKmkIZD"
+version = "bqTjZjLS"

@@ -1,0 +1,12 @@
+filename = "Amplified_Nether_26.1_v1.2.14.jar"
+name = "Amplified Nether"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf78213066fbe4a121d8ad1320386b09a69eaa9a"
+url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/rp2A0tDf/Amplified_Nether_26.1_v1.2.14.jar"
+
+[update.modrinth]
+mod-id = "wXiGiyGX"
+version = "rp2A0tDf"

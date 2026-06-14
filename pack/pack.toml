@@ -1,0 +1,13 @@
+name = "Another Worlds Unofficial"
+author = "alexyzer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ffd621653d5dcb06e73ac11bbb7aa9ee54e86e9c8101ed3bb0d2b5cbc3122e17"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

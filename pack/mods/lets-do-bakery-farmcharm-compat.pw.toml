@@ -1,0 +1,12 @@
+filename = "letsdo-bakery-neoforge-2.1.6.jar"
+name = "[Let's Do] Bakery - Farm&Charm Compat"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1784df19be895a8aeff5c3b51675a04b7e1fb254"
+url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/toe1Cb0E/letsdo-bakery-neoforge-2.1.6.jar"
+
+[update.modrinth]
+mod-id = "oNB5jhlA"
+version = "toe1Cb0E"

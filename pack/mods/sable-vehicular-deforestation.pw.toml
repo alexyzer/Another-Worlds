@@ -1,0 +1,12 @@
+filename = "tree_overrun_sublevels-neoforge-1.21.1-0.5.78.jar"
+name = "Sable Vehicular Deforestation"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b1dfa8dc474d8dee032a4d30ca8cbc0b27ee0d"
+url = "https://cdn.modrinth.com/data/m3nLIPIe/versions/P27F6P6E/tree_overrun_sublevels-neoforge-1.21.1-0.5.78.jar"
+
+[update.modrinth]
+mod-id = "m3nLIPIe"
+version = "P27F6P6E"

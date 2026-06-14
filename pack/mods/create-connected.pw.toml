@@ -1,0 +1,12 @@
+filename = "create_connected-1.2.0-mc1.21.1.jar"
+name = "Create: Connected"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70b02826b3ce03db83c5234f54012f55b409c5da"
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/tSy3IGxT/create_connected-1.2.0-mc1.21.1.jar"
+
+[update.modrinth]
+mod-id = "Vg5TIO6d"
+version = "tSy3IGxT"

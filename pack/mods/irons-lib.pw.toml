@@ -1,0 +1,12 @@
+filename = "irons_lib-1.21.1-1.0.2.jar"
+name = "Iron's Lib"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef92f362a352a30f927c30c2be72a2d843c41342"
+url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar"
+
+[update.modrinth]
+mod-id = "9nfaJPtX"
+version = "sRMMFgei"

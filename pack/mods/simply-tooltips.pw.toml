@@ -1,0 +1,12 @@
+filename = "SimplyTooltips-neoforge-0.1.3.jar"
+name = "Simply Tooltips"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746"
+url = "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar"
+
+[update.modrinth]
+mod-id = "6avVoBVB"
+version = "Ic73EcJ6"

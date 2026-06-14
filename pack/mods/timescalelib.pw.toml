@@ -1,0 +1,12 @@
+filename = "timescalelib-1.0.0.jar"
+name = "TimeScaleLib"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f2adddacea0a654e3ef6aaab7d1e7ad4414da21"
+url = "https://cdn.modrinth.com/data/vjgeDtjR/versions/gAo60fOD/timescalelib-1.0.0.jar"
+
+[update.modrinth]
+mod-id = "vjgeDtjR"
+version = "gAo60fOD"

@@ -1,0 +1,12 @@
+filename = "familiarslib-1.21.1-1.7_HotFix.jar"
+name = "Familiarslib"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bdd88f68830c3ee7c98f546aa6dbb9ee093d46b"
+url = "https://cdn.modrinth.com/data/dAPGqOME/versions/OtvYyM7e/familiarslib-1.21.1-1.7_HotFix.jar"
+
+[update.modrinth]
+mod-id = "dAPGqOME"
+version = "OtvYyM7e"
