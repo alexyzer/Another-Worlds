@@ -595,6 +595,11 @@ hash = "13e64dfbb46408e13d1205babe376f451036daae04bdc9cbb61a751c7d268dee"
 metafile = true
 
 [[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "deb411274d906a168676c9d5e382171a7d285ebd65471fd4bf7a768171f6a2e0"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "bc7bea319ef95db77eca70b26f4f061d68f3ffe55c314eb89e3152a0c048ff4b"
 metafile = true
