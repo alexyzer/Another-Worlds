@@ -19,5 +19,5 @@ pause > NUL
 start "" "https://www.java.com/download/"
 exit /b 1
 :found
-%JAVA_EXE% -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/alexyzer/Another-Worlds/refs/heads/main/pack/pack.toml" -bootstrap-no-update
+"%JAVA_EXE%" -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/alexyzer/Another-Worlds/refs/heads/main/pack/pack.toml" -bootstrap-no-update
 exit /b 0
