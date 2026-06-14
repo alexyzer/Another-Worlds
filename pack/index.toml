@@ -1138,3 +1138,8 @@ metafile = true
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "665cd7035ca3d99b3edc44dd300ac8fe4c8f88229a5f6f473cd3cfffdd047bc3"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "14facbde6be517f24c28f3cea3667c8da1fb9c294b17fefa72cd05dd6cb2d6c6"
+preserve = true
