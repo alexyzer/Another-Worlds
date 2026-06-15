@@ -530,11 +530,6 @@ hash = "7732ca3e24b10cbb47ec3993bbfa9b160d43ad2affddb3c89d70fb35e29665ca"
 metafile = true
 
 [[files]]
-file = "mods/incremental-mining.pw.toml"
-hash = "58a0e57b38d46ab21aae183184f1d4587371c37c6540364febcf979c74b9649b"
-metafile = true
-
-[[files]]
 file = "mods/infernal-expansion-redux.pw.toml"
 hash = "c7ab6915016a07ec2c3e6e823c97056d7a883ce405dcf978b60a3c26e35742ed"
 metafile = true
