@@ -1,0 +1,12 @@
+filename = "hexParse-neoforge-1.21.1-1.11.1.jar"
+name = "HexParse"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2a0f870829df23e06ef99f0706e36928d0b13a3"
+url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/2VegAuTK/hexParse-neoforge-1.21.1-1.11.1.jar"
+
+[update.modrinth]
+mod-id = "WjFyIzFj"
+version = "2VegAuTK"

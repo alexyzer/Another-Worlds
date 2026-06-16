@@ -41,6 +41,16 @@ hash = "dee9bfd413d9acd0a49f12d01ccbd7f4abe4c082b38a316b4bb6182330bb5598"
 metafile = true
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "b82d31fb3e0208692b3002d6a84a1a50fcd52f17d9fcd693426d49b635c37390"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "216fcbcd47b541192f3d3206bf2e7769afb46218d77d796495702f6ff9f463c9"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "02ca601c86e07d815e7e0e77cb6bedab6e49e4520cdc5fc7eac2226819a747b9"
 metafile = true
@@ -106,6 +116,10 @@ hash = "e5f00134da8cab44d612bfef038613ec67369928505dc179b50ca7bd44ab68a1"
 metafile = true
 
 [[files]]
+file = "mods/atlas_api-1.21.1-1.2.0.jar"
+hash = "42f213c8fc8db43e307dd5b0b726acb2b044548258bcac6c3f666a953688cc64"
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "3ac2e7ff6033ffdf5a4c738a88d1db20e330c98364252c674ab5586932e4d2d3"
 metafile = true
@@ -147,6 +161,16 @@ metafile = true
 [[files]]
 file = "mods/cbc-compact-mount.pw.toml"
 hash = "e26578c337e7ca754a39079e8576813238d2cba747621478a62d5381cce56425"
+metafile = true
+
+[[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "7663130c0c1adbbc77f65fae33b93758a0b34f6e29b6033776acbf695baf35f1"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "f7f0d16f5fbd4e6d86c1c57d57dd2f7a89d8b535957355ad524d0436668a675f"
 metafile = true
 
 [[files]]
@@ -275,6 +299,11 @@ hash = "3dc1c4533aa66602b09fdf2d68ac61c861db538e7eaf80f0f61c68dd4f1e6e19"
 metafile = true
 
 [[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "4890fe41fe5f3c0c89f856b1e65b9de86ae9924db961152b59ff4ed630eb7d5f"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "abdc5f6976890d3062789ce00d3ac69ecf55b80c7b5de2bf1aa763de31041f73"
 metafile = true
@@ -295,6 +324,11 @@ hash = "e291e6b224732e7bf980c0f064ca68c5c5937a96e2f44761b434f463c4dcc6f1"
 metafile = true
 
 [[files]]
+file = "mods/create-furnace-lava-adapter.pw.toml"
+hash = "ed3b3c3a0aca7ef2fda77d561c48ddf65e2e75e3478cc5bd3ca7d76fae231d06"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "103f61b7b952ff6f32937eb1ead88cc9822507c7b2ca3bb48002ff7d07c37089"
 metafile = true
@@ -307,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "d0ff103dd5519b58a0ef2a97f32e2f60bfecd2dbf650f848caad83e0d6be7eea"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "febe3718e6f58f487e93c48655cf4db8502eadfddedf0c3c56401c1ce2794bd4"
 metafile = true
 
 [[files]]
@@ -401,6 +440,16 @@ metafile = true
 [[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "c16d1fa20cd61f9bacbe73768a89e6c72129dc979355005021405bc67cb3222e"
+metafile = true
+
+[[files]]
+file = "mods/emote-tweaks.pw.toml"
+hash = "5e528fd2763e4e13d813619969e8c53a94da9eee84697b6e5d90bb2106e6dbe7"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "f6a98ecc4a184f1775c7fb777e280fa6747545277a2d664549d75bab95bc9528"
 metafile = true
 
 [[files]]
@@ -510,6 +559,11 @@ file = "mods/hexcessible-0.3.2-devel.jar"
 hash = "857fb00bfb094c6543df207994e869fbf44b54da313af0a29e6063d2f0d0d958"
 
 [[files]]
+file = "mods/hexparse.pw.toml"
+hash = "e901bf22ba31e1c2b581b2e3b7689cda40772dd4f99298a57572d38c5543b688"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "f3838ebee6c03c5f7aed3431053e7f5271333a1d2e432e57ab70c62960287f24"
 metafile = true
@@ -546,13 +600,17 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "fa803b5b73d605110fc0ec9e8c14c2fad2ac475d461f96a65711daf0d1e3722d"
+hash = "a05732ec41ad890abbaa26311043c3c0ed91813678e3862b3a9c82254a91a869"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "e5acb47c717565d20645455d450340966793686817c326e8fbc410377851b2eb"
 metafile = true
+
+[[files]]
+file = "mods/irons_jewelry-1.21.1-2.0.0.jar"
+hash = "991947b4d3cffdbef07d48a0aba51fb4d328925c722474c488e38c86632316c5"
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
@@ -577,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "82c289c79e410d874ae5212da3aaa37a92820b6aed6d79359b20f6bd48d979a6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "71de535392d578c88a791dfc5a59657aa9d0663b1b38a29981d561c834992714"
 metafile = true
 
 [[files]]
@@ -734,6 +797,11 @@ hash = "0484ca9d269d9b0e3c987ac479e7af3e4cf5d12d608765231cbb93e6bbed88ce"
 metafile = true
 
 [[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "63e0499e78cba1b4aa8bdb4d4defc06449b19002b9766f6a4ab304db5b62aa27"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "a6eea2a415e177ad469c7335d933d6a02818578b91f6ce3576cc1f94dcd0f266"
 metafile = true
@@ -790,16 +858,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f865c04019767a40d335ae57232187bc8598f1c8b7815d392046e6a2dde14d79"
-metafile = true
-
-[[files]]
-file = "mods/pop-up-emotes-online-addon.pw.toml"
-hash = "37240beea105a860015641d0654e3a7d79c4f8dabdd754d458a497f778086998"
-metafile = true
-
-[[files]]
-file = "mods/pop-up-emotes.pw.toml"
-hash = "0d7db6b2f44e839680058722a6ae37e3b784c5521f87b2551bcc6c3b938e9401"
 metafile = true
 
 [[files]]
@@ -999,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "ac0be0c89cc607370fb2f9c589143c8290540d6f527aa1f110f6c82af4e216e2"
+metafile = true
+
+[[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "9b2b91da43ecd7d5a287d03f35e2f10e772f8ecaf68bd6483fdda8089cbb0db9"
 metafile = true
 
 [[files]]

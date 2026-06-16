@@ -1,0 +1,12 @@
+filename = "emotetweaks-neoforge-1.0.4.jar"
+name = "Emote Tweaks (Emotecraft Team Continuation)"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91a52052a77f1ae8251872e3ec2cce64b4651969"
+url = "https://cdn.modrinth.com/data/DUXvHuhO/versions/NjKJP5m4/emotetweaks-neoforge-1.0.4.jar"
+
+[update.modrinth]
+mod-id = "DUXvHuhO"
+version = "NjKJP5m4"

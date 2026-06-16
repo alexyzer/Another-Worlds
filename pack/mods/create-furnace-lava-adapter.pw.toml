@@ -1,0 +1,12 @@
+filename = "create_furnace_lava_adapter-1.21.1-1.5.0.jar"
+name = "Create Furnace Lava Adapter"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3d437d14c769e2e9e6474ff4e72688992ff621b"
+url = "https://cdn.modrinth.com/data/TVhOvEMf/versions/65n5cJEU/create_furnace_lava_adapter-1.21.1-1.5.0.jar"
+
+[update.modrinth]
+mod-id = "TVhOvEMf"
+version = "65n5cJEU"
